@@ -82,6 +82,5 @@ while True:
     if b1.click():
         sair()
 
-
     flip()
 
